@@ -1,0 +1,3 @@
+interface Desconto {
+    double calcularDesconto();
+}
